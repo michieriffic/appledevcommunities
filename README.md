@@ -7,6 +7,8 @@ For now, these are the different type of communities available:
 
 ### Format: 
 
+Community Logo (Make width and height size to 50 - use html for this to work)
+
 Community Name (Make it a Link)
 - Founders/Organizers (Make it a Link)
 - Starting Date | ACTIVE / INACTIVE
@@ -18,6 +20,8 @@ Community Name (Make it a Link)
 
 
 ## Communities that hold meetups/events
+
+<img src="https://user-images.githubusercontent.com/12575688/116908188-2eb99f00-ac75-11eb-8668-794c3f581169.png" width="50" height="50">
 
 [SwiftPH](https://swift.ph)
 - Founders: [Michie Ang](https://twitter.com/swiftph), [Steffi Tan](https://twitter.com/mistakenlyIteps)
