@@ -6,7 +6,8 @@ For now, these are the different type of communities available:
 - Others
 
 ### Format: 
-- Community Name (Make it a Link)
+
+Community Name (Make it a Link)
 - Founders/Organizers (Make it a Link)
 - Starting Date | ACTIVE / INACTIVE
 - Location
