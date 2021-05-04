@@ -5,6 +5,8 @@ For now, these are the different type of communities available:
 - Chat Groups / Forum (Slack, Discord, Telegram, FB Group etc)
 - Others
 
+Feel free to suggest other types by creating an issue.
+
 ### Format: 
 
 Community Logo (Make width and height size to 50 - use html for this to work)
