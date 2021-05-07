@@ -26,8 +26,8 @@ Community Name (Make it a Link)
 <img src="https://user-images.githubusercontent.com/12575688/116908188-2eb99f00-ac75-11eb-8668-794c3f581169.png" width="50" height="50">
 
 [SwiftPH](https://swift.ph)
-- Founders: [Michie Ang](https://twitter.com/swiftph), [Steffi Tan](https://twitter.com/mistakenlyIteps)
-- Starting Date: July 22, 2017 | ACTIVE
+- Founders: [Michie Ang](https://twitter.com/michieriffic), [Steffi Tan](https://twitter.com/mistakenlyIteps)
+- Starting Date: July 2017 | ACTIVE
 - Location: Philippines
 - Non-profit
 - Apple Developer Group in the Philippines. We hold meetups and do talks about our experiences in developing Apple Apps.
@@ -37,5 +37,12 @@ Community Name (Make it a Link)
 
 ## Chat Groups / Forum
 
+[Diversity in Swift](https://swift.org/diversity/#community-groups)
+- Current Work Group: [Holly Borla](https://forums.swift.org/u/hborla/), [Kaya Thomas](https://forums.swift.org/u/kmt901), [Kristina Fox](https://forums.swift.org/u/kristina/), [Niharika Bedekar](https://forums.swift.org/u/niharikabedekar), [Paul Hudson](@paul_hudson).
+- Starting Date: December 2020 | ACTIVE
+- Location: Global
+- Non-profit
+- **Diversity in Swift** is an effort focused on further elevating diverse voices within the Swift community, and making it easier to start learning or contributing to Swift, regardless of your background.
+- [Website](https://swift.org/diversity/#community-groups)
 
 ## Others
