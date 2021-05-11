@@ -12,7 +12,7 @@ Feel free to suggest other types by creating an issue.
 Community Logo (Make width and height size to 50 - use html for this to work)
 
 Community Name (Make it a Link)
-- Founders/Organizers (Make it a Link)
+- Founders/Organizers/Admins (Make it a Link)
 - Starting Date | ACTIVE / INACTIVE
 - Location
 - Non-profit / For-profit (Business/Company owned communities)
