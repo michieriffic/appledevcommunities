@@ -45,4 +45,12 @@ Community Name (Make it a Link)
 - **Diversity in Swift** is an effort focused on further elevating diverse voices within the Swift community, and making it easier to start learning or contributing to Swift, regardless of your background.
 - [Website](https://swift.org/diversity/#community-groups)
 
+[iOS Developers HQ](http://ios-developers.io/)
+- Team: [Aaron Pearce](https://twitter.com/aaron_pearce), [Jeff Boek](https://twitter.com/boek), [Ian Keen](https://twitter.com/iankeen), [Ethan Schatzline](https://twitter.com/ethan.schatzline), [Mat Cartmill](https://twitter.com/mat), [Jon-Tait Beason](bugkrusha), [Christina Moulton](christinamltn), [Ryan Arana](https://twitter.com/aranasaurus), [Donny Wals](https://twitter.com/donnywals), [James Martinez](https://twitter.com/james)
+- Starting Date:            | ACTIVE
+- Location: Global
+- Non-profit
+- A Slack community for iOS developers with 30,000 members (and counting!) We care about three things: being open, helping each other, and sharing knowledge. If this sounds like you then request an invite. We look forward to getting to know you.
+- [Website](https://ios-developers.io/) 
+
 ## Others
