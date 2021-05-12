@@ -27,12 +27,24 @@ Community Name (Make it a Link)
 
 [SwiftPH](https://swift.ph)
 - Founders: [Michie Ang](https://twitter.com/michieriffic), [Steffi Tan](https://twitter.com/mistakenlyIteps)
+- Team: [Michie Ang](https://twitter.com/michieriffic), [Steffi Tan](https://twitter.com/mistakenlyIteps), [Mark Kevin King](https://twitter.com/swiftymarks), [Zonily Jame Pesquera](https://twitter.com/zonilyjame), [Charmaine Legaspi](https://twitter.com/chamechanga)
 - Starting Date: July 2017 | ACTIVE
 - Location: Philippines
 - Non-profit
 - Apple Developer Group in the Philippines. We hold meetups and do talks about our experiences in developing Apple Apps.
 - Events: Usually once a month, no fix sched.
 - [Website](https://swift.ph) | [Meetup](https://meetup.com/swiftph) | [Twitter](https://twitter.com/swiftphofficial) | [Facebook](http://facebook.com/swiftphofficial) | [Slack](http://ioscoders.ph)
+
+[iOSoho - New York City's largest iOS Engineer Meetup](https://www.meetup.com/iOSoho/)
+
+- Founder: [Paul Miard](https://twitter.com/paulmiard)
+- Leadership Council: [Paul Miard](https://twitter.com/paulmiard), [Kris Arnold](https://twitter.com/wka), [Albert Tong](https://twitter.com/AlbertTong)
+- Starting Date: 2013 | ACTIVE
+- Location: New York
+- Non-profit
+- iOSoho is New York City's largest iOS Engineer Meetup. We're best known for our terrific technical talks and our policy of admitting only active iOS engineers, designers, and product people. 
+- Event: Every month, we visit the office of a top tech employer in New York City. The program features two expert speakers presenting 20-minute technical talks, with 10 minutes of Q&A each. The rest of the time is for pizza, drinks, and hanging out.
+- [Meetup](https://www.meetup.com/iOSoho/)
 
 
 ## Chat Groups / Forum
@@ -46,7 +58,7 @@ Community Name (Make it a Link)
 - [Website](https://swift.org/diversity/#community-groups)
 
 [iOS Developers HQ](http://ios-developers.io/)
-- Team: [Aaron Pearce](https://twitter.com/aaron_pearce), [Jeff Boek](https://twitter.com/boek), [Ian Keen](https://twitter.com/iankeen), [Ethan Schatzline](https://twitter.com/ethan.schatzline), [Mat Cartmill](https://twitter.com/mat), [Jon-Tait Beason](bugkrusha), [Christina Moulton](christinamltn), [Ryan Arana](https://twitter.com/aranasaurus), [Donny Wals](https://twitter.com/donnywals), [James Martinez](https://twitter.com/james)
+- Team: [Aaron Pearce](https://twitter.com/aaron_pearce), [Jeff Boek](https://twitter.com/jeffboek), [Ian Keen](https://twitter.com/iankay), [Ethan Schatzline](), [Mat Cartmill](https://twitter.com/MatCartmill), [Jon-Tait Beason](https://twitter.com/bugKrusha), [Christina Moulton](https://twitter.com/ChristinaMltn), [Ryan Arana](https://twitter.com/aranasaurus), [Donny Wals](https://twitter.com/donnywals), [James Martinez](https://twitter.com/jamescmartinez)
 - Starting Date:            | ACTIVE
 - Location: Global
 - Non-profit
