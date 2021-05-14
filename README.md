@@ -46,6 +46,15 @@ Community Name (Make it a Link)
 - Event: Every month, we visit the office of a top tech employer in New York City. The program features two expert speakers presenting 20-minute technical talks, with 10 minutes of Q&A each. The rest of the time is for pizza, drinks, and hanging out.
 - [Meetup](https://www.meetup.com/iOSoho/)
 
+[Sydney CocoaHeads](http://www.sydneycocoaheads.com)
+
+ - Founder: [Mark Aufflick](https://twitter.com/mark_sabbatical)
+ - Team: [Zach Simone](https://twitter.com/zachsimone), [Karl Bowden](https://mobile.twitter.com/karlbowden), [Nikki Vergracht](https://mobile.twitter.com/Lewion)
+ - Starting Date: 🦖 | ACTIVE
+ - Location: Sydney, Australia
+ - Sydney's iOS meetup with a range of talks on mobile app development, and building quality software for Apple platforms.
+ - Every month, Sydney CocoaHeads offers attendees the opportunity to meet, eat, drink, and discuss all things related to developing for Apple platforms. We have a range of talks, everything from lightning talks up to full-length conference presentations. 
+ - [Meetup](https://www.meetup.com/sydneycocoaheads/)
 
 ## Chat Groups / Forum
 
