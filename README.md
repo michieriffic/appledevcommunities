@@ -55,6 +55,18 @@ Community Name (Make it a Link)
  - Sydney's iOS meetup with a range of talks on mobile app development, and building quality software for Apple platforms.
  - Every month, Sydney CocoaHeads offers attendees the opportunity to meet, eat, drink, and discuss all things related to developing for Apple platforms. We have a range of talks, everything from lightning talks up to full-length conference presentations. 
  - [Meetup](https://www.meetup.com/sydneycocoaheads/)
+ 
+ <img src="https://user-images.githubusercontent.com/8058427/119777817-8d8cc580-be7b-11eb-8a47-d76eaf1cff4b.png" width="50" height="50">
+ 
+ [Core Coffee](https://www.meetup.com/Core-Coffee-a-catch-up-for-iOS-and-macOS-developers)
+  - Founders: [Malin Sundberg](https://twitter.com/malinsundberg), [Kai Dombrowski](https://twitter.com/airkai)
+  - Team: [Malin Sundberg](https://twitter.com/malinsundberg), [Kai Dombrowski](https://twitter.com/airkai)
+  - Starting Date: February 2019 | ACTIVE
+  - Location: Vancouver, Canada
+  - Non-profit
+  - A casual meetup for people to catch up to talk about iOS, macOS, watchOS, tvOS and everything in-between.
+  - Events: Every other week 
+  - [Meetup](https://www.meetup.com/Core-Coffee-a-catch-up-for-iOS-and-macOS-developers)
 
 ## Chat Groups / Forum
 
