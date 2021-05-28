@@ -55,6 +55,17 @@ Community Name (Make it a Link)
  - Sydney's iOS meetup with a range of talks on mobile app development, and building quality software for Apple platforms.
  - Every month, Sydney CocoaHeads offers attendees the opportunity to meet, eat, drink, and discuss all things related to developing for Apple platforms. We have a range of talks, everything from lightning talks up to full-length conference presentations. 
  - [Meetup](https://www.meetup.com/sydneycocoaheads/)
+ 
+ <img src="https://user-images.githubusercontent.com/5484727/119950816-f53e3000-bfa3-11eb-9e14-49e5b4610c8e.png" width="50" height="50">
+
+[iOSUkraine](https://www.youtube.com/channel/UCHdJjb0qR5lLK1adYmgfaqg)
+
+ - Founders: [Vadim Bulavin](https://twitter.com/V8tr), [Alexander Saenko](https://twitter.com/AlexanderSaenko), [Vycheslav Beliy](https://twitter.com/VycheslavBeliy)
+ - Starting Date: 2020 | ACTIVE
+ - Location: Ukraine, Global
+ - iOSUkraine is an online conference made for iOS developers by iOS developers. We have brand new session formats besides public talks, such as: public interview, code review, live coding, lightning talks, what's gonna happen next, etc.
+ - Event: Usually every season, 10 sessions during one week - 2 sessions per day - in the morning and in the evening.
+ - [Website](https://www.iosukraine.com) | [Telegram](https://t.me/iOSUkraine) | [Twitter](https://twitter.com/iOSUkraine) | [Facebook](https://www.facebook.com/groups/iosukraine) | [Slack](https://iosukraine.slack.com) | [LinkedIn](https://www.linkedin.com/company/ios-ukraine/) | [YouTube](https://www.youtube.com/channel/UCHdJjb0qR5lLK1adYmgfaqg)
 
 ## Chat Groups / Forum
 
