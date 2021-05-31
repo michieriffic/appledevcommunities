@@ -67,6 +67,18 @@ Community Name (Make it a Link)
  - Event: Usually every season, 10 sessions during one week - 2 sessions per day - in the morning and in the evening.
  - [Website](https://www.iosukraine.com) | [Telegram](https://t.me/iOSUkraine) | [Twitter](https://twitter.com/iOSUkraine) | [Facebook](https://www.facebook.com/groups/iosukraine) | [Slack](https://iosukraine.slack.com) | [LinkedIn](https://www.linkedin.com/company/ios-ukraine/) | [YouTube](https://www.youtube.com/channel/UCHdJjb0qR5lLK1adYmgfaqg)
 
+ <img src="https://user-images.githubusercontent.com/8058427/119777817-8d8cc580-be7b-11eb-8a47-d76eaf1cff4b.png" width="50" height="50">
+ 
+ [Core Coffee](https://www.meetup.com/Core-Coffee-a-catch-up-for-iOS-and-macOS-developers)
+  - Founders: [Malin Sundberg](https://twitter.com/malinsundberg), [Kai Dombrowski](https://twitter.com/airkai)
+  - Team: [Malin Sundberg](https://twitter.com/malinsundberg), [Kai Dombrowski](https://twitter.com/airkai)
+  - Starting Date: February 2019 | ACTIVE
+  - Location: Vancouver, Canada
+  - Non-profit
+  - A casual meetup for people to catch up to talk about iOS, macOS, watchOS, tvOS and everything in-between.
+  - Events: Every other week 
+  - [Meetup](https://www.meetup.com/Core-Coffee-a-catch-up-for-iOS-and-macOS-developers)
+
 ## Chat Groups / Forum
 
 [Diversity in Swift](https://swift.org/diversity/#community-groups)
