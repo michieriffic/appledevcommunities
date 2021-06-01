@@ -79,6 +79,17 @@ Community Name (Make it a Link)
   - Events: Every other week 
   - [Meetup](https://www.meetup.com/Core-Coffee-a-catch-up-for-iOS-and-macOS-developers)
 
+<img src="https://user-images.githubusercontent.com/32079390/120267175-4a09d100-c258-11eb-938d-f6f9bae916d1.jpeg" width="50" height="50">
+
+[iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
+- Host/ Founder: [Allen Whearry](https://twitter.com/codeine_coding)
+- Co-hosts/ Admins: [Ting Becker](https://twitter.com/Teekachu1), [Frank Foster](https://twitter.com/frankefoster), [Alex Silver](https://twitter.com/silvr)
+- Starting Date: September 2019 | ACTIVE
+- Location: Online
+- Event: The goal of [**#iOSDevHappyHour**](https://twitter.com/search?q=%23iOSDevHappyHour&src=hashtag_click&f=live) is to allow current and aspiring iOS Developers a place to share experiences, share knowledge, simply hang out, build community, and even enjoy a drink or two online during a time where face to face contact is limited.
+- Frequency: Once a month.
+- [Website](https://www.iosdevhappyhour.com) | [Twitter](https://www.iosdevhappyhour.com) | [Slack](https://join.slack.com/t/iosdevhappyhour/shared_invite/zt-n4ol0edf-ZKm~PxY1DCEYK4Ax9LPJ2g) | [Instagram](https://instagram.com/iOSDevHappyHour)
+
 ## Chat Groups / Forum
 
 [Diversity in Swift](https://swift.org/diversity/#community-groups)
