@@ -98,3 +98,13 @@ Community Name (Make it a Link)
 - [Website](https://ios-developers.io/) 
 
 ## Others
+
+ <img src="https://www.wwdcnotes.com/images/favicon/favicon.png" width="50" height="50">
+ 
+[WWDC Notes](https://www.wwdcnotes.com)
+- Founder: [Federico Zanetello](http://twitter.com/zntfdr)
+- Starting Date: June 2020 | ACTIVE
+- Location: Global
+- Non-profit
+- Open-source and community-driven effort to collect notes for all Apple's WWDC videos. ❤️
+- [Website](https://www.wwdcnotes.com) | [Twitter](https://twitter.com/WWDCNotes)
